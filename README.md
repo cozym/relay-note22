@@ -1,11 +1,14 @@
 # relay-note22
 
 ## 목표
+![image](https://github.com/user-attachments/assets/6b813e97-7f32-4df2-befe-5cc016b4f4b8)
+
 소프트웨어 장인 정신 갖추기
 
 ## 토론 내용
 
 ### 개발자를 지망하게 된 계기
+![image](https://github.com/user-attachments/assets/556614ce-aced-44a6-b773-e60534fa4488)
 
 ### S013_김민석
 학창 시절부터 컴퓨터 공학과 진학을 희망했다. 내가 만든 프로그램이 누군가에게 도움이 되고 인사이트가 된다는 사실이 재밌었기 떄문이다.
@@ -29,6 +32,8 @@ javascript가 그나마 좋아서 하다보니 개발자를 지망하게 되었�
 -> 각 개인의 동기와 계기를 잘 활용하여 흥미를 갖고 몰입하여 임한다면 좋은 결과를 낼 수 있을 것이다. 
 
 ## 기억에 남는 오류 해결 방식
+![image](https://github.com/user-attachments/assets/5c49abdd-eb05-40d6-830c-da63aa37d14e)
+
 1. xml parser 구현할 때 , 테스트 코드를 이용한 디버깅 진행
 2. 정규 표현식 코드를 작성할 때 다른 사람의 코드 참고
 3. console.log()를 이용한 디버깅
